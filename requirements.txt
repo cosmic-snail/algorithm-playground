@@ -1,0 +1,20 @@
+# 核心依赖
+numpy
+pandas
+matplotlib
+
+# 深度学习框架
+torch
+ torchvision
+
+# 数据处理
+scikit-learn
+
+# 测试
+pytest
+
+# 日志
+loguru
+
+# 配置管理
+pyyaml
